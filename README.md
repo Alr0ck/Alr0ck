@@ -14,18 +14,28 @@ I'm currently working as a **Backend Developer**. Outside of work, I run freelan
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-### Languages for Work   :rocket:
+<h2 align="center">Languages for Work :rocket:</h2>
 
-
+<div align="center">
 <code><a href="https://go.dev/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png" alt="golang logo" /></a></code>
 <code><a href="https://www.typescriptlang.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="typescript logo" /></a></code>
 <code><a href="https://www.javascript.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript logo" /></a></code>
 <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="c# logo" /></a></code>
 <code><a href="https://www.php.net/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="php logo" /></a></code>
+</div>
 
+<hr>
 
-### Connect with Me
+<h2 align="center">My Stack :fire:</h2>
 
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">
+  <a href="https://stackshare.io/alr0ck/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=for-the-badge" alt="Alr0ck :: StackShare" />
+  </a>
+</p>
+
+<hr>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alfiyanm/"><img alt="Linkedin" title="Alfiyan M Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
